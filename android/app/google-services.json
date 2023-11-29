@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "349494632051",
+    "project_id": "dondi-12b82",
+    "storage_bucket": "dondi-12b82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349494632051:android:139164053e0977dd2bd406",
+        "android_client_info": {
+          "package_name": "com.countrywise.dondi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349494632051-d10hbuagsli6t81h4a8vr3fsob31q563.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.countrywise.dondi",
+            "certificate_hash": "2c51b89266fe84f8998cb782e45c66c912748c9c"
+          }
+        },
+        {
+          "client_id": "349494632051-3fdit4f1d6jf9vt4q1q3452l6uue16an.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzvrY5FFhIcrVnx_Tic6g4r5YOF4QV-_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349494632051-3fdit4f1d6jf9vt4q1q3452l6uue16an.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

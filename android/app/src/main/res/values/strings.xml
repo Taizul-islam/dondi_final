@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dondi</string>
+    <string name="facebook_app_id">715195523639535</string>
+    <string name="fb_login_protocol_scheme">fb715195523639535</string>
+    <string name="facebook_client_token">8ac306359e516a73fde58b03a816cf53</string>
+
+
+</resources>
